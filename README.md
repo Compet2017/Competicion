@@ -21,6 +21,9 @@ El interfaz hombre-máquina deberá estar desarrollado en AngujarJS o Angular 2 
 * Consulta del listado de estaciones de destino del robot. 
 
 A modo de ejemplo se incluye un mockup del HMI a desarrollar:
+![Mapa Planta Robot](https://github.com/CompeticionGaliciaTIC2017/CompeticionAngular/blob/master/mapa_planta_robot.png)
+
+
 
 # Recursos proporcionados
 
@@ -28,4 +31,6 @@ A modo de ejemplo se incluye un mockup del HMI a desarrollar:
 * Imagen con el plano del circuito que recorre el robot y las estaciones preconfiguradas.
 * Imagen representativa del robot (vista en planta)
 * Capturas de pantalla de una aplicación básica de ejemplo
+
+
 
